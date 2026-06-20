@@ -1,0 +1,1 @@
+-keep class com.novahome.launcher.model.** { *; }
